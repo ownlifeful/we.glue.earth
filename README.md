@@ -1,8 +1,9 @@
-# we.glue.earth Open Source Cooperative
+# we.glue.earth 
+# Open Source Software Cooperative
 
 ## About Us
 
-We are an Open Source Software Cooperative, formed with a vision to unite skilled individuals from various backgrounds – programmers, designers, artists, writers, and more – under one banner. We aim to provide a platform for unemployed workers who have time, skills, and a desire to contribute to meaningful, cutting-edge, open-source projects.
+**we.glue.earth** is an Open Source Software Cooperative, formed with a vision to unite skilled individuals from various backgrounds – programmers, designers, artists, writers, and more – under one banner. We aim to provide a platform for unemployed workers who have time, skills, and a desire to contribute to meaningful, cutting-edge, open-source projects.
 
 ## Our Mission
 
