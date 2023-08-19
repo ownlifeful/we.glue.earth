@@ -1,15 +1,30 @@
-# we.glue.earth 
-# Open Source Software Cooperative
+# we.glue.earth Open Source Software Cooperative
 
 ## Vision
 
-Our mission is to build a de-commercialized, democratized, and decluttered collection of all human knowledge. We aim to create a foundation for future innovators to build upon, starting with the **Alexandria3000** app. We unite skilled individuals from various backgrounds, including programmers, designers, artists, writers, and more, to work collaboratively on meaningful, cutting-edge open-source projects.
+Our mission is to empower people through collective action and technology. We strive to create an environment where individuals can fully unleash their talents and potential, breaking free from the limitations of traditional work roles. Starting with the **Alexandria3000** app, we are building a foundation for a democratized and decluttered collection of all human knowledge.
+
+---
+
+## Empowerment, Freedom, and Inclusivity
+
+- **Work from Anywhere:** Geography is no limit. You have the freedom to contribute from wherever you are in the world.
+- **Flexible Participation:** Full-time or part-time, morning bird or night owl, your work schedule is in your hands.
+- **Equal Opportunity for All:** We cultivate a welcoming and diverse environment, without discrimination.
+- **More Than Just a Role:** We recognize and celebrate the multi-faceted talents of our members. You are not just a job title here; you are a whole individual.
+
+  - *Example:* Hired for business development but passionate about music? We are excited to explore how your musical talents can enrich our community and our projects.
+ 
+  
+- **Democratic Voice:** In our cooperative, each member has a voice. You can propose new projects, adjustments to workflows, or ideas to enhance our working environment through our decision-making system. Your voice matters.
+
+  - *Example:* Feel we could enhance our software with a new feature? Draft a proposal, share your ideas, and let the entire cooperative decide collaboratively.
 
 ---
 
 ## The Alexandria3000 App
 
-**Alexandria3000** is designed as an AI-powered app aiming to revolutionize the way we learn and master Computer Science. It dynamically adjusts to an individual's level of knowledge or proficiency and accelerates the learning process. For more about the app, visit [Alexandria3000.org](http://alexandria3000.org).
+**Alexandria3000** is an AI-powered app aiming to revolutionize how we learn and master Computer Science and beyond. For more about the app, visit [Alexandria3000.org](http://alexandria3000.org).
 
 ---
 
@@ -17,7 +32,7 @@ Our mission is to build a de-commercialized, democratized, and decluttered colle
 
 ### Equal Ownership
 
-Every worker owns an equal share in the cooperative, fostering a sense of ownership and commitment to our mission and values.
+Every worker owns an equal share in the cooperative, fostering a sense of ownership and commitment to our collective mission and values.
 
 ### Hiring Process
 
@@ -37,36 +52,30 @@ Every worker owns an equal share in the cooperative, fostering a sense of owners
 
 ## Democratic Operation
 
-Our cooperative is committed to functioning as a democracy. We elect officers, maintain a charter and bylaws, hold regular meetings, and keep minutes.
+Our cooperative functions as a democracy. We elect officers, maintain a charter and bylaws, hold regular meetings, and keep minutes.
 
 ### Collective Decision Making
 
-We use a points-based system for collective decision-making, where each employee is granted 1000 points. Proposals are made by members and voted upon using these points. 
+We use a points-based system for collective decision-making, where each employee is granted 1000 points. Proposals are made by members and voted upon using these points.
 
-**How It Works:**
-1. Each employee can create proposals, which outline a specific course of action for the cooperative.
-2. Employees vote for or against proposals by allocating their points accordingly.
-3. The system totals the for/against allocations for each proposal to determine whether it will be implemented.
-4. Employees can delegate some or all of their points to other members or panels of experts for specific proposals.
+---
 
-**Examples of Delegation:**
-- *Delegating to a Single Expert:* “This proposal is tagged ‘security’. Delegate 500 points, on this proposal, to Bruce Schneier.”
-- *Delegating to a Panel of Experts:* “This proposal is tagged 'security'. Delegate 1000 points, to this proposal. 10% to Bruce Schneier, 20% to Matt Blaze, and 70% to Brianna Wu."
-- *Customized Delegation:* "Make my vote the same as Joe Smith's, except take all the points he allocated to 'equipment purchase', and reallocate them to 'education' (70%) and 'software purchase' (30%)."
+## Shared Success and Fair Incentives
+
+- **Autonomy and Trust:** We trust you to communicate effectively, attend scheduled meetings (online or offline), and meet shared goals with autonomy.
+- **Shared Prosperity:** When the cooperative succeeds, we all benefit financially and professionally. We all share the same goals and incentives.
 
 ---
 
 ## Get Involved
 
-We’re actively seeking visionaries interested in investing their time, skills, and capital into this project. As part of our cooperative, you will have a voice in shaping the future of this initiative.
+We’re actively seeking visionaries interested in investing their time, skills, and capital into this bold project. As part of our cooperative, you will have a voice in shaping the future of this initiative.
 
-1. **Check out Our Work:** Visit [Alexandria3000.org](http://alexandria3000.org) to learn more about our app.
-2. **Contact Us:** Reach out to us with your ideas and let us know how you would like to contribute.
-3. **Invest:** We welcome financial support to help fuel our development and operations.
+(Refer to the previously outlined steps to get involved)
 
 ---
 
-For more information, please visit [Alexandria3000.org](http://alexandria3000.org) or reach out to us at [contact@we.glue.earth](mailto:contact@we.glue.earth).
+For more information, please visit [Alexandria3000.org](http://alexandria3000.org) or reach out to us at [contact@glue.earth](mailto:contact@glue.earth).
 
 *Let’s build the future together. It's time to get inspired.* 🌍
 
