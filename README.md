@@ -2,83 +2,62 @@
 
 ## Vision
 
-Our mission is to empower people through collective action and technology. We strive to create an environment where individuals can fully unleash their talents and potential, breaking free from the limitations of traditional work roles. Starting with the **Alexandria3000** app, we are building a foundation for a democratized and decluttered collection of all human knowledge.
+At **we.glue.earth**, our mission is to empower individuals through the principles of Free and Open Software, collective action, and decentralized knowledge. We champion a world where knowledge is democratized, technology is transparent, and everyone can contribute their unique talents. With the **Alexandria3000** app, we're setting the groundwork for a democratized collection of all human knowledge, underpinned by open collaboration.
+
+---
+
+## The Power of Free and Open Software (FOSS)
+
+Open software promotes collaboration, ensures transparency, and champions user freedom. Our commitment: all software developed by our cooperative will be released as FOSS, predominantly under the GPL. This ensures our contributions stand as communal assets, fostering innovation and upholding user rights.
 
 ---
 
 ## Empowerment, Freedom, and Inclusivity
 
-- **Work from Anywhere:** Geography is no limit. You have the freedom to contribute from wherever you are in the world.
-- **Flexible Participation:** Full-time or part-time, morning bird or night owl, your work schedule is in your hands.
-- **Equal Opportunity for All:** We cultivate a welcoming and diverse environment, without discrimination.
-- **More Than Just a Role:** We recognize and celebrate the multi-faceted talents of our members. You are not just a job title here; you are a whole individual.
+At **we.glue.earth**, we recognize that every individual brings a unique set of skills and perspectives. Here, roles are not confined. Hired for business development but also have a knack for music? We value and can utilize that. Our cooperative structure ensures that everyone's voice is heard. Anyone can propose ideas, and the best ones are championed and benefit everyone. 
 
-  - *Example:* Hired for business development but passionate about music? We are excited to explore how your musical talents can enrich our community and our projects.
- 
-  
-- **Democratic Voice:** In our cooperative, each member has a voice. You can propose new projects, adjustments to workflows, or ideas to enhance our working environment through our decision-making system. Your voice matters.
-
-  - *Example:* Feel we could enhance our software with a new feature? Draft a proposal, share your ideas, and let the entire cooperative decide collaboratively.
+Work from anywhere, full-time or part-time. Our focus is on effective communication, attending scheduled meetings (online or offline), and meeting shared goals. Discrimination has no place here. Our primary objective is your success, which translates into our collective triumph.
 
 ---
 
 ## The Alexandria3000 App
 
-**Alexandria3000** is an AI-powered app aiming to revolutionize how we learn and master Computer Science and beyond. For more about the app, visit [Alexandria3000.org](http://alexandria3000.org).
+Imagine an AI-powered app that dynamically tailors its guidance to your knowledge level, allowing rapid mastery of various disciplines. From a fifth-grader exploring game design to a tech CEO seeking a high-level overview, **Alexandria3000** adjusts. Envisioned as the definitive cognitive model for the entire field of Computer Science and beyond, we're paving the path for the future of reference materials. 
+
+**Discover more** at [Alexandria3000.org](http://alexandria3000.org).
 
 ---
 
 ## Cooperative Policies
 
-### Equal Ownership
+- **Democracy in Action:** Our cooperative functions democratically. We elect officers, maintain a charter and bylaws, hold meetings, and keep records.
+  
+- **Shared Ownership:** Each worker owns an equal stake in the cooperative.
 
-Every worker owns an equal share in the cooperative, fostering a sense of ownership and commitment to our collective mission and values.
+- **Hiring and Onboarding:** New recruits undergo a contract-to-hire period of 3 months. Following this, all employees vote on permanent hiring.
 
-### Hiring Process
+- **Rewarding Excellence:** Employees who add significant value are eligible for bonuses. These are awarded based on collective decision.
 
-- **Contract-to-Hire:** New recruits start as contract-to-hire workers for a 3-month period.
-- **Peer Approval:** After 3 months, all employees vote on whether the new recruit will be hired as a permanent member.
+- **Supportive Environment:** We decide collectively on measures to aid or discipline underperforming peers.
 
-### Reward System
-
-- **Peer Review:** Employees are peer-reviewed regularly.
-- **Performance Bonuses:** Employees collectively decide on awarding bonuses from the cooperative’s collective funds based on exceptional performance.
-
-### Policy on Leaving the Cooperative
-
-- If a worker decides to leave, their share will be bought out, and they will be compensated, ensuring the ownership remains with the current workers.
+- **Exiting the Cooperative:** Should an employee leave, their share will be bought out, ensuring ownership remains with the workers.
 
 ---
 
-## Democratic Operation
+## Democratic Operation & Collective Decision Making
 
-Our cooperative functions as a democracy. We elect officers, maintain a charter and bylaws, hold regular meetings, and keep minutes.
-
-### Collective Decision Making
-
-We use a points-based system for collective decision-making, where each employee is granted 1000 points. Proposals are made by members and voted upon using these points.
-
----
-
-## Shared Success and Fair Incentives
-
-- **Autonomy and Trust:** We trust you to communicate effectively, attend scheduled meetings (online or offline), and meet shared goals with autonomy.
-- **Shared Prosperity:** When the cooperative succeeds, we all benefit financially and professionally. We all share the same goals and incentives.
+Every employee is granted 1,000 points to use in our decision-making system. Proposals are created by employees, and points are allocated to vote on them. Crucially, employees can delegate points—fully or in part—to others, allowing specialized knowledge to play a pivotal role in decision-making.
 
 ---
 
 ## Get Involved
 
-We’re actively seeking visionaries interested in investing their time, skills, and capital into this bold project. As part of our cooperative, you will have a voice in shaping the future of this initiative.
+Join our mission to shape a future where software and knowledge are shared assets for humanity. With us, you have a voice in crafting this world.
 
-(Refer to the previously outlined steps to get involved)
+[Visit Alexandria3000.org](http://alexandria3000.org) or reach out to [contact@we.glue.earth](mailto:contact@we.glue.earth).
 
----
+*Together, let’s make the world a place where technology truly belongs to everyone.* 🌍
 
-For more information, please visit [Alexandria3000.org](http://alexandria3000.org) or reach out to us at [contact@glue.earth](mailto:contact@glue.earth).
+**Note:** For detailed info about contributing, such as submitting pull requests, setting up a dev environment, etc., please see our CONTRIBUTING.md file (to be created). 
 
-*Let’s build the future together. It's time to get inspired.* 🌍
-
----
-
-**Note:** This README.md file is intended to serve as a welcoming introduction to our project and a call to action for potential contributors. For more detailed information about contributing, including the process for submitting pull requests, setting up a development environment, etc., please see our CONTRIBUTING.md file (to be created).
+*This is a fictional example; any resemblance to real persons or entities is coincidental.*
