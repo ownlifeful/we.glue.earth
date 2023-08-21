@@ -54,10 +54,8 @@ Every employee is granted 1,000 points to use in our decision-making system. Pro
 
 Join our mission to shape a future where software and knowledge are shared assets for humanity. With us, you have a voice in crafting this world.
 
-[Visit Alexandria3000.org](http://alexandria3000.org) or reach out to [contact@we.glue.earth](mailto:contact@we.glue.earth).
+[Visit Alexandria3000.org](http://alexandria3000.org) or reach out to [contact@glue.earth](mailto:contact@glue.earth).
 
 *Together, let’s make the world a place where technology truly belongs to everyone.* 🌍
 
 **Note:** For detailed info about contributing, such as submitting pull requests, setting up a dev environment, etc., please see our CONTRIBUTING.md file (to be created). 
-
-*This is a fictional example; any resemblance to real persons or entities is coincidental.*
